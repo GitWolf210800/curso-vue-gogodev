@@ -3,7 +3,6 @@
 </template>
 
 <script lang="ts" setup>
-import CounterOption from './components/CounterOption.vue';
 import CounterCompotition from './components/CounterCompotition.vue';
 </script>
 
