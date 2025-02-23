@@ -1,13 +1,13 @@
 <template>
-  <CounterCompotition />
+  <ExampleSelective />
 </template>
 
 <script lang="ts" setup>
-import CounterCompotition from './components/CounterCompotition.vue';
+import ExampleSelective from './components/ExampleSelective.vue';
 </script>
 
 <style>
-h1 {
+/*h1 {
   color: brown;
-}
+}*/
 </style>
