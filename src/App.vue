@@ -1,13 +1,11 @@
 <template>
-  <ClassBind />
+  <ModelForm />
 </template>
 
 <script lang="ts" setup>
-import ClassBind from './components/ClassBind.vue';
+import ModelForm from './components/ModelForm.vue';
 </script>
 
 <style>
-/*h1 {
-  color: brown;
-}*/
+
 </style>
